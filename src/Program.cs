@@ -10,7 +10,7 @@ while (user)
     bool vChoice = true; // validity of the choice
     while (vChoice)
     {
-        Console.WriteLine("1.Add \n2.Substract\n3.Multiplicationn\n4.Division");
+        Console.WriteLine("1. Add \n2. Substract\n3. Multiplicationn\n4. Division");
 
         Console.Write("Enter your choice here: ");
         choice = Console.ReadLine();
